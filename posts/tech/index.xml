@@ -6,7 +6,16 @@
     <description>Recent content in 👨🏻‍💻 技术 on John&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 05 May 2022 00:17:58 +0800</lastBuildDate><atom:link href="https://lijiejoy.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Aug 2022 00:17:58 +0800</lastBuildDate><atom:link href="https://lijiejoy.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo部署到github.io</title>
+      <link>https://lijiejoy.github.io/posts/tech/hugo%E9%83%A8%E7%BD%B2%E5%88%B0github/</link>
+      <pubDate>Fri, 05 Aug 2022 00:17:58 +0800</pubDate>
+      
+      <guid>https://lijiejoy.github.io/posts/tech/hugo%E9%83%A8%E7%BD%B2%E5%88%B0github/</guid>
+      <description>主要记录hugo部署到github.io</description>
+    </item>
+    
     <item>
       <title>go代理设置</title>
       <link>https://lijiejoy.github.io/posts/tech/go%E4%BB%A3%E7%90%86%E8%AE%BE%E7%BD%AE/</link>
